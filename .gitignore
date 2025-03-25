@@ -1,0 +1,7 @@
+# 忽略 ROS 2 构建文件
+build/
+install/
+log/
+.colcon/
+*.pyc
+__pycache__/
